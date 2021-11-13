@@ -16,7 +16,7 @@ body {
 .h1 {
     font-family: 'Italianno', cursive;
     color: #E1E1E1; 
-    text-align: center;
+    text-align: right;
     font-size: 38px;
     letter-spacing: 0.1em;
     text-shadow: 3px 2px #333333;
@@ -31,7 +31,7 @@ body {
     font-size: 38px;
     color: #E1E1E1;
     text-shadow: 3px 2px #333333;
-    text-align: center;
+    text-align: right;
     padding: 15px;
     border: 10px solid #E1E1E1;
     width: 700px;
